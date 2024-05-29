@@ -1,13 +1,13 @@
 # BallClickerGame
  
-Ball Clicker Game where the premise is to click the red ball as many times within the timer.
+Ball Clicker Game made with Jetpack Compose, where the premise is to click the red ball as many times within the timer.
  
 <h2> 📸 Screenshots
 
 <table>
   <tr>
     <td><img src="Ball%20Clicker%20Game%20Screenshots/Screenshot_1.png" alt="Screenshot 1" width="300" /></td>
-    <td><img src="Ball%20Clicker%20Game%20Screenshots/Screenshot_1.png" alt="Screenshot 2" width="300" /></td>
+    <td><img src="Ball%20Clicker%20Game%20Screenshots/Screenshot_2.png" alt="Screenshot 2" width="300" /></td>
 
   </tr>
 </table>
@@ -15,3 +15,5 @@ Ball Clicker Game where the premise is to click the red ball as many times withi
 <h2> 📱 Features
 
 <h5>
+
+Canvas
